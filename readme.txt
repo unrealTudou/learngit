@@ -3,4 +3,4 @@ Git is not free software.
 asdasd
 
 
-sbb
+sbb Creating a new branch is quick.
